@@ -1,43 +1,65 @@
-# Hi, I'm Aditi 👋
+<h1>Hi, I'm Aditi 👋</h1>
 
-🎯 Data Analyst | Business Intelligence | Healthcare Analytics  
-🎓 MSIM @ UIUC  
+<p>
+🎯 <b>Data Analyst | Business Intelligence | Healthcare Analytics</b><br>
+🎓 Master's in Information Management @ University of Illinois Urbana-Champaign
+</p>
 
----
+<hr>
 
-## 🚀 What I Do
-- Build end-to-end data pipelines (Azure, Fabric, SQL)
-- Translate business problems into data solutions
-- Work on healthcare analytics + payer systems
+<table>
+<tr>
 
----
+<td width="50%" valign="top">
 
-## 🔥 Featured Projects
+<h3>🚀 What I Do</h3>
 
-### 🧠 Dynamic Payer Knowledge Base
-- Built a version-controlled rule engine for Medicaid billing
-- Reduced lookup time from 30–45 min → <30 sec
-- Tech: SQLite, FastAPI, Streamlit
+<ul>
+<li>Build end-to-end data pipelines (Azure, Fabric, SQL)</li>
+<li>Translate business problems into data solutions</li>
+<li>Healthcare analytics + payer systems</li>
+</ul>
 
----
+<h3>🛠️ Tech Stack</h3>
 
-### 📊 SMB Intelligence Engine
-- Built medallion architecture (Bronze → Gold)
-- Developed churn prediction model
-- Delivered BI dashboards
+<p>
+Python | SQL | Power BI <br>
+Azure | Fabric | DuckDB <br>
+Streamlit | FastAPI
+</p>
 
----
+</td>
 
-### 🌍 Healthcare + Climate Research
-- Analyzed 5.7M+ records across 102 counties
-- Built lag-based models for prediction
+<td width="50%" valign="top">
 
----
+<h3>🔥 Featured Projects</h3>
 
-## 🛠️ Tech Stack
-Python | SQL | Power BI | Azure | Fabric | DuckDB | Streamlit
+<b>🧠 Dynamic Payer Knowledge Base</b>
+<ul>
+<li>Version-controlled Medicaid rule engine</li>
+<li>30–45 min → &lt;30 sec lookup</li>
+<li>SQLite, FastAPI, Streamlit</li>
+</ul>
 
----
+<b>📊 SMB Intelligence Engine</b>
+<ul>
+<li>Medallion architecture (Bronze → Gold)</li>
+<li>Churn prediction model</li>
+<li>BI dashboards</li>
+</ul>
 
-## 📫 Connect
-https://www.linkedin.com/in/aditi-amitpatil/
+<b>🌍 Healthcare + Climate Research</b>
+<ul>
+<li>5.7M+ records across 102 counties</li>
+<li>Lag-based predictive modeling</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
+
+<hr>
+
+<h3>📫 Connect</h3>
+<a href="https://www.linkedin.com/in/aditi-amitpatil/">LinkedIn</a>
