@@ -1,65 +1,75 @@
-<h1>Hi, I'm Aditi 👋</h1>
+# Hi, I'm Aditi 👋
 
-<p>
-🎯 <b>Data Analyst | Business Intelligence | Healthcare Analytics</b><br>
-🎓 Master's in Information Management @ University of Illinois Urbana-Champaign
-</p>
+**MS in Information Management @ UIUC**  
+**Data Analyst | Business Intelligence | Healthcare Analytics**
 
-<hr>
+I like working on data problems that sit between business operations and technical systems. Most of my work has focused on turning messy, high-friction workflows into structured, usable solutions, whether that means building analytics pipelines, designing reporting layers, or creating healthcare data tools that help people get to the right answer faster.
 
-<table>
-<tr>
+Right now, I’m especially interested in data analyst, BI analyst, and analytics roles where I can work across SQL, dashboards, business problem-solving, and end-to-end data workflows.
 
-<td width="50%" valign="top">
+---
 
-<h3>🚀 What I Do</h3>
+## 🧠 About Me
 
-<ul>
-<li>Build end-to-end data pipelines (Azure, Fabric, SQL)</li>
-<li>Translate business problems into data solutions</li>
-<li>Healthcare analytics + payer systems</li>
-</ul>
+I’m currently pursuing my Master’s in Information Management at the University of Illinois Urbana-Champaign. My work has spanned healthcare analytics, business intelligence, research-scale data analysis, and workflow-focused data products.
 
-<h3>🛠️ Tech Stack</h3>
+I enjoy projects where the output is not just a model or dashboard, but something that actually improves how a person makes a decision.
 
-<p>
-Python | SQL | Power BI <br>
-Azure | Fabric | DuckDB <br>
-Streamlit | FastAPI
-</p>
+---
 
-</td>
+## 💼 Right Now
 
-<td width="50%" valign="top">
+- Building healthcare-focused data systems and analytics workflows
+- Working on payer knowledge and insurance-rule retrieval problems
+- Developing BI and machine learning projects using Microsoft Fabric, SQL, Python, and Power BI
+- Exploring roles in data analytics, BI, product analytics, and healthcare analytics
 
-<h3>🔥 Featured Projects</h3>
+---
 
-<b>🧠 Dynamic Payer Knowledge Base</b>
-<ul>
-<li>Version-controlled Medicaid rule engine</li>
-<li>30–45 min → &lt;30 sec lookup</li>
-<li>SQLite, FastAPI, Streamlit</li>
-</ul>
+## 🔥 Featured Work
 
-<b>📊 SMB Intelligence Engine</b>
-<ul>
-<li>Medallion architecture (Bronze → Gold)</li>
-<li>Churn prediction model</li>
-<li>BI dashboards</li>
-</ul>
+### Dynamic Payer Knowledge Base
+Built a structured, version-aware Medicaid billing knowledge system designed to reduce manual insurance-rule lookup time and make historical policy retrieval deterministic.
 
-<b>🌍 Healthcare + Climate Research</b>
-<ul>
-<li>5.7M+ records across 102 counties</li>
-<li>Lag-based predictive modeling</li>
-</ul>
+**Tech:** SQLite, FastAPI, Streamlit, Python
 
-</td>
+### SMB Intelligence Engine
+Built an end-to-end analytics project in Microsoft Fabric with medallion architecture, churn modeling, and dashboard-ready reporting layers.
 
-</tr>
-</table>
+**Tech:** Microsoft Fabric, PySpark, SQL, Power BI, Python
 
-<hr>
+### Healthcare + Climate Research
+Analyzed 5.7M+ records across 102 Illinois counties to study the relationship between respiratory trends, air quality, and climate variables using large-scale modeling workflows.
 
-<h3>📫 Connect</h3>
-<a href="https://www.linkedin.com/in/aditi-amitpatil/">LinkedIn</a>
+**Tech:** Python, R, SQL, DuckDB, machine learning
+
+---
+
+## 🛠️ What I Work With
+
+**Analytics & BI**  
+SQL, Power BI, Tableau, Excel, Looker Studio
+
+**Data & Programming**  
+Python, Pandas, NumPy, R, PySpark, DuckDB
+
+**Cloud & Platforms**  
+Microsoft Fabric, Azure Data Factory, Azure OpenAI, SQLite
+
+**Other Tools**  
+Streamlit, FastAPI, GitHub
+
+---
+
+## 📜 Certifications
+
+- Microsoft Certified: Power BI Data Analyst Associate  
+- Microsoft Certified: Fabric Analytics Engineer Associate  
+- Alteryx Fundamentals
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/aditi-amitpatil/)
+- Open to data analyst, BI analyst, healthcare analytics, and strategy-focused analytics roles
